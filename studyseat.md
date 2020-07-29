@@ -17,36 +17,65 @@ There are two options for viewing the functionality of the StudySeat site, which
 
 ### OPTION 2: Hosted Link
 * Input “https://study-seat.com/” (or localhost:8080 if running locally) into a web browser like Chrome and press enter.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image0.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image0.png">
+</p>
 
 * You will be directed to a login page. If you have not already registered for a user account, then select the register button.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image1.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image1.png">
+</p>
 
 * On the registration page, you will enter your email address and password that will be connected with your user account (__IMPORTANT*** Please make sure that your password contains at least one special character such as an exclamation point “!”__). Notice that the register button does not become enabled until an email and password have been entered. Upon registering, you should be automatically logged in.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image2.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image2.png">
+</p>
  
 * Input a location such as “San Francisco” in the blank text box following the “I’m in” and click the Submit button.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image3.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image3.png">
+</p>
 
 * You will now be navigated to the location that you have just inputted, and will have the option to select from three check boxes, including: cafe, library, and bookstore.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image4.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image4.png">
+</p>
  
 * After selecting from any number of the check boxes, the map will automatically populate or depopulate red markers that correspond with cafes, libraries, or bookstores.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image5.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image5.png">
+</p>
 
 * Toggling the checkboxes should cause the markers for a given category to appear and disappear.
 
 * You can zoom in closer into a specific area or red flag for further inspection, and similarly, you can zoom out for a broader view of an area. This can be done by double-clicking the map with your mouse.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image6.png)
 
-* To see further information regarding a specific study spot, just click the matching red flag and an information box will appear providing it
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image7.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image6.png">
+</p>
+
+* To see further information regarding a specific study spot, just click the matching red flag and an information box will appear
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image7.png">
+</p>
 
 * Try logging out by pressing the log out button
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image8.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image8.png">
+</p>
 
 * Try logging in with a random email and password (which should fail). After a few seconds (auth0 is slow for some reason), you should see this red “login failed” text.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image9.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image9.png">
+</p>
 
 * Try logging in with the same username and password you registered above, you should be redirected to the map.
 * To exit the application, simply close your web browser
@@ -126,14 +155,14 @@ The overall process of creating our web application was a rigorous yet immensely
 Another noteworthy consideration developed during this process, was the deeper realization that our website reflected a larger theme and trend, in which a substantial amount of the application’s effectiveness derived from standing upon the shoulders of giants. Whether it was leveraging the Amazon Web Services’ Elastic Beanstalk capabilities, or Google Map’s API functionalities, the overall integration and functionality of our website came from understanding what these services were and how best to utilize them into our project to create optimal results.
  
 ## REFERENCES
-*  	Bryce St. Pierre “Google Maps API v.3.36 Tutorial”  , Youtube,  Febuary 24th, 2019 https://www.youtube.com/watch?v=oVr6unKZbg4&feature=youtu.be
-* 	Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github, May 29th, 2013 https://github.com/facebook/create-react-app
-*  	Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github, https://facebook.github.io/create-react-app/docs/running-tests
-*  	Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github, https://facebook.github.io/create-react-app/docs/deploymen
-*  	Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github,
-*  	https://facebook.github.io/create-react-app/docs/getting-started
-*  	Jordan Walke, React- A Javascript library for building user interfaces, May 29th, 2013 https://reactjs.org/
-*  	Google “Google Maps API Bundles”, Google Maps API , June 2015, https://developers.google.com/maps/documentation
+*   Bryce St. Pierre “Google Maps API v.3.36 Tutorial”  , Youtube,  Febuary 24th, 2019 https://www.youtube.com/watch?v=oVr6unKZbg4&feature=youtu.be
+*   Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github, May 29th, 2013 https://github.com/facebook/create-react-app
+*   Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github, https://facebook.github.io/create-react-app/docs/running-tests
+*   Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github, https://facebook.github.io/create-react-app/docs/deploymen
+*   Jonny Buchanan, Ean Platter, Max Stoiber,  “Create-React-App”, Github,
+*   https://facebook.github.io/create-react-app/docs/getting-started
+*   Jordan Walke, React- A Javascript library for building user interfaces, May 29th, 2013 https://reactjs.org/
+*   Google “Google Maps API Bundles”, Google Maps API , June 2015, https://developers.google.com/maps/documentation
 
 
 

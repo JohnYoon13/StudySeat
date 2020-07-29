@@ -17,7 +17,9 @@ There are two options for viewing the functionality of the StudySeat site, which
 
 ### OPTION 2: Hosted Link
 * Input “https://study-seat.com/” (or localhost:8080 if running locally) into a web browser like Chrome and press enter.
-![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image0.png)  
+<p align="center">
+  <src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image0.png">
+</p>
 
 * You will be directed to a login page. If you have not already registered for a user account, then select the register button.
 

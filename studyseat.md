@@ -17,9 +17,7 @@ There are two options for viewing the functionality of the StudySeat site, which
 
 ### OPTION 2: Hosted Link
 * Input “https://study-seat.com/” (or localhost:8080 if running locally) into a web browser like Chrome and press enter.
-<p align="center">
-  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image0.png">
-</p>
+![](https://github.com/JohnYoon13/StudySeat/blob/master/images/image0.png)  
 
 * You will be directed to a login page. If you have not already registered for a user account, then select the register button.
 
@@ -67,14 +65,10 @@ There are two options for viewing the functionality of the StudySeat site, which
 
 * Try logging out by pressing the log out button
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image8.png">
-</p>
-
 * Try logging in with a random email and password (which should fail). After a few seconds (auth0 is slow for some reason), you should see this red “login failed” text.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image9.png">
+  <img width="460" height="300" src="https://github.com/JohnYoon13/StudySeat/blob/master/images/image8.png">
 </p>
 
 * Try logging in with the same username and password you registered above, you should be redirected to the map.
